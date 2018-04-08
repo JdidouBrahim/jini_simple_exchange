@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="jsk-platform">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/jsk-platform.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/destroy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/jsk-debug-policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/mercury.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/jsk-lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/prebuilt-outrigger-logstore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/outrigger-logstore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/browser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/reggie.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/sun-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/sharedvm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/fiddler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/jini-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/start.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/phoenix.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/phoenix-init.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/group.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/jini-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/mahalo.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/outrigger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/norm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/phoenix-group.jar!/" />
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/outrigger-snaplogstore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

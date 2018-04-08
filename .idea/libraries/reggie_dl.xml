@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="reggie-dl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/all_rmi_lib/reggie-dl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
